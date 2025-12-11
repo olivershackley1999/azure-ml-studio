@@ -1,4 +1,3 @@
-**Azure ML via command line arguments**
 This Python script enables you to interact with Azure Machine Learning models via command line arguments. 
 
 This was part of a larger project of training a model to predict flight delays. 
